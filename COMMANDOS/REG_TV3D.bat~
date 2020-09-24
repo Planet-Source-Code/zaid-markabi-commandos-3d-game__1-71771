@@ -1,0 +1,5 @@
+REGSVR32.EXE /S dx8vb.dll
+REGSVR32.EXE /S truevision3d.dll 
+REGSVR32.EXE /S tvmedia.dll
+REGSVR32.EXE /S tvutil62.dll
+REGSVR32.EXE /S msvbvm60.dll
