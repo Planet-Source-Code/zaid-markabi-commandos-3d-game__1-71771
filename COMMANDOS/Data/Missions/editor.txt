@@ -1,0 +1,22 @@
+[F] floor (1)
+[I] wall left-rightup-down (2)
+[=] wall up-down (2)
+[{] wall up left (2)
+[}] wall up right (2)
+[[] wall down left (2)
+[]] wall down right (2)
+[b] small box (2)
+[^] door for up (2)
+[v] door for down (2)
+[C] car (1)
+[T] Tree (1)
+[t] tree2 (1)
+[H] health (1)
+[W] weapon (1)
+[l] wall left-rightup-down (2) soor
+[-] wall up-down (2) soor
+[e] wall up left (2) soor
+[r] wall up right (2) soor
+[E] wall down left (2) soor
+[R] wall down right (2) soor
+[M] enemy

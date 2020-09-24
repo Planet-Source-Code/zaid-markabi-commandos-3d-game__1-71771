@@ -1,0 +1,6 @@
+Health
+100
+Bomb
+0
+Weapon
+#FALSE#

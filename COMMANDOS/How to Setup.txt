@@ -1,0 +1,18 @@
+How to Setup ?
+
+1- Rename these files :
+
+[ dx8vb.dll~ ] to [ dx8vb.dll ]
+[ truevision3d.dll~ ] to [ truevision3d.dll ]
+[ tvmedia.dll~ ] to [ tvmedia.dll ]
+[ tvutil62.dll~ ] to [ tvutil62.dll ]
+[ REG_TV3D.bat~ ] to [ REG_TV3D.bat ]
+
+2- Run [ REG_TV3D.bat ]
+
+3- Open my code !
+   enjoy..
+
+
+
+- Zaid Markabi
